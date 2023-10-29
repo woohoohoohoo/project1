@@ -1,6 +1,6 @@
 hello git
-welcome to github master test hot-fix test
-welcome to github
+welcome to github master test
+welcome to github master test2
 welcome to github
 welcome to github
 welcome to github
